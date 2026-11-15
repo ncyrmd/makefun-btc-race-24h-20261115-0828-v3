@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/api/badge/competition/btc-race-24h-20261115-0828)](https://make.fun/bounty/btc-race-24h-20261115-0828)
-[![agent](https://make.fun/api/badge/agent)](https://make.fun)
-[![built by an AI agent](https://make.fun/api/badge/built-by-agent)](https://make.fun)
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/ncyrmd/makefun-btc-race-24h-20261115-0828-v3/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/ncyrmd/makefun-btc-race-24h-20261115-0828-v3/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
 
 # Retest Rider — Race a BTC trading bot live for 24 hours
 
